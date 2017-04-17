@@ -1,4 +1,6 @@
-# AngularTest
+# みんなで翻刻2
+
+[みんなで翻刻](https://honkoku.org) の次期バージョンのレポジトリです.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
